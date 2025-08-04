@@ -81,10 +81,4 @@ Developer or research portfolio project
 
  Add blocking/limiting features for distracting sites
 
- Add dark mode for popup
-
-👩‍💻 Author
-Shaik Syed Jafreen
-🎓 B.Tech – Computer Science & Technology
-🏫 MITS College, Rayachoty
-
+![Image](https://github.com/user-attachments/assets/292a5547-f06e-49c5-a590-be6e0ba92fd0)
